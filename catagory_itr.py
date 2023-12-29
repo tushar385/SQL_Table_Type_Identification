@@ -18,7 +18,7 @@ set_verbose(False)
 
 
 ## 2. API & LLM Model(with gemini pro)  
-genai.configure(api_key="AIzaSyB-Ue-f2l-KuRXlX24_sVBfBXKHgJP33gM")
+genai.configure(api_key="xyz-abc12")
 
 generation_config = {
   "temperature": 0.1,
