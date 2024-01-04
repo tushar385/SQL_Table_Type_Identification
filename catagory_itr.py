@@ -32,10 +32,10 @@ model = genai.GenerativeModel(model_name="gemini-pro",
 
 ## 3. Database connection - snowflake / postgress   
 snowflake_account = 'agb63276'
-snowflake_user = 'BRIJESH'
-snowflake_password = 'Temp@115599'
-snowflake_warehouse = 'COMPUTE_WH'
-snowflake_database = 'INTERMEDIA'
+snowflake_user = 'Tushar'
+snowflake_password = '1239'
+snowflake_warehouse = 'ABC'
+snowflake_database = 'Test'
 snowflake_schema = 'DATA_S3'
 
 conn = snowflake.connector.connect(
